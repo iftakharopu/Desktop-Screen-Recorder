@@ -3,7 +3,7 @@
 ShoutOut to [**fireship.io**](https://github.com/fireship-io) :fire:
 
 #### I followed this tutorial.
-..* [Build a Desktop App with Electron... But Should You?](https://youtu.be/3yqDxhR2XxE)
+  * [Build a Desktop App with Electron... But Should You?](https://youtu.be/3yqDxhR2XxE)
 
 #### Things I get to know/ have to study about :
   * inter-process communication
